@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="Amount1" value="100"/>
+  <parameter name="Amount2" value="5000000"/>
+  <parameter name="Amount3" value="1000"/>
+  <listeners>
+    <listener class-name="com.Utility.ExtentReport"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.TestCases.TS001_GettingTopThree_BookShelves">
+        <methods>
+          <include name="getBookshelves"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.TestCases.TS001_GettingTopThree_BookShelves -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

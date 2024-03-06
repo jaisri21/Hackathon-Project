@@ -1,0 +1,476 @@
+16:43:27.412 [main] INFO  - ************Starts searching with empty string************
+16:43:57.978 [main] INFO  - ************No result found for empty string************
+16:43:58.639 [main] INFO  - ************Starts searching************
+16:44:04.540 [main] INFO  - ************Choosing category as Bookshelves************
+16:44:10.255 [main] INFO  - ************Choosing price range below 15000************
+16:44:21.159 [main] INFO  - ************Excluding out of stock************
+16:44:22.345 [main] INFO  - ************sorting as high to low************
+16:44:28.920 [main] INFO  - ************TOP 3 Bookshelves************
+16:44:29.364 [main] INFO  - ************Sub menu 1************
+16:44:31.639 [main] INFO  - ************Sub menu 2************
+16:44:31.685 [main] INFO  - ************Sub menu 3************
+16:44:56.493 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+16:44:56.702 [main] INFO  - ************Entering amount as 1000***********
+16:45:01.145 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+16:45:01.294 [main] INFO  - ************Entering amount as 1000***********
+16:45:03.984 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+16:45:04.123 [main] INFO  - ************Entering amount as 1000***********
+16:45:08.792 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+16:45:08.953 [main] INFO  - ************Entering amount as 1000***********
+16:45:09.416 [main] INFO  - ************Filling the details in the form***********
+16:45:16.017 [main] INFO  - ************Submitting the form************
+16:45:16.348 [main] INFO  - ************Printing the Confirmation Message************
+16:45:22.381 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+16:45:22.577 [main] INFO  - ************Entering amount as 1000***********
+16:45:23.064 [main] INFO  - ************Filling the details in the form***********
+16:45:29.726 [main] INFO  - ************Submitting the form************
+16:45:29.992 [main] INFO  - ************Printing the Confirmation Message************
+16:45:32.280 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+16:45:32.445 [main] INFO  - ************Entering amount as 1000***********
+16:45:32.878 [main] INFO  - ************Filling the details in the form***********
+16:45:39.413 [main] INFO  - ************Submitting the form************
+16:45:39.490 [main] INFO  - ************Printing the Confirmation Message************
+16:46:02.408 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+16:46:02.625 [main] INFO  - ************Entering amount as 1000***********
+16:46:03.038 [main] INFO  - ************Filling the details in the form***********
+16:46:09.901 [main] INFO  - ************Submitting the form************
+16:46:10.314 [main] INFO  - ************Printing the Confirmation Message************
+17:22:34.373 [main] INFO  - --------------The home page of the website--------------
+17:30:05.486 [main] INFO  - --------------The home page of the website--------------
+17:31:31.243 [main] INFO  - --------------The home page of the website--------------
+17:32:04.433 [main] INFO  - --------------The home page of the website--------------
+17:32:18.654 [main] INFO  - --------------The home page of the website--------------
+17:32:34.040 [main] INFO  - --------------The home page of the website--------------
+17:32:47.746 [main] INFO  - --------------Home page--------------
+17:32:47.776 [main] INFO  - --------------Clicking the gift card option--------------
+17:33:30.436 [main] INFO  - --------------Navigated to the gift card page--------------
+17:33:30.542 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+17:33:30.924 [main] INFO  - --------------Entering the amount as 1000--------------
+17:33:31.784 [main] INFO  - --------------The heading of the form--------------
+17:33:31.804 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+17:33:44.571 [main] INFO  - --------------The Message after submitting the form--------------
+17:34:00.313 [main] INFO  - --------------Home page--------------
+17:34:00.333 [main] INFO  - --------------Clicking the gift card option--------------
+17:34:05.092 [main] INFO  - --------------Navigated to the gift card page--------------
+17:34:05.108 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+17:34:05.532 [main] INFO  - --------------Entering the amount as 1000--------------
+17:34:06.290 [main] INFO  - --------------The heading of the form--------------
+17:34:06.298 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+17:34:14.433 [main] INFO  - --------------The Message after submitting the form--------------
+17:34:30.578 [main] INFO  - --------------Home page--------------
+17:34:30.582 [main] INFO  - --------------Clicking the gift card option--------------
+17:34:35.406 [main] INFO  - --------------Navigated to the gift card page--------------
+17:34:35.414 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+17:34:35.855 [main] INFO  - --------------Entering the amount as 1000--------------
+17:34:36.700 [main] INFO  - --------------The heading of the form--------------
+17:34:36.707 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+17:34:44.692 [main] INFO  - --------------The Message after submitting the form--------------
+17:34:59.978 [main] INFO  - --------------Home page--------------
+17:34:59.984 [main] INFO  - --------------Clicking the gift card option--------------
+17:35:05.332 [main] INFO  - --------------Navigated to the gift card page--------------
+17:35:05.350 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+17:35:05.666 [main] INFO  - --------------Entering the amount as 1000--------------
+17:35:06.388 [main] INFO  - --------------The heading of the form--------------
+17:35:06.392 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+17:35:14.934 [main] INFO  - --------------The Message after submitting the form--------------
+17:36:45.630 [main] INFO  - --------------The home page of the website--------------
+17:36:45.880 [main] INFO  - --------------Goto to search box-->Search for Bookshelves..-------------- 
+17:36:48.807 [main] INFO  - --------------Navigating to the result page--------------
+17:36:52.315 [main] INFO  - --------------Choosing category as Bookshelves--------------
+17:36:58.314 [main] INFO  - --------------Choosing the price range as 608-9222--------------
+17:37:09.403 [main] INFO  - --------------Excluding out of stock--------------
+17:37:10.730 [main] INFO  - --------------Sorting the product as High to low--------------
+17:37:17.858 [main] INFO  - --------------The top three bookshelve's name and price--------------
+17:37:32.052 [main] INFO  - --------------Title of the page--------------
+17:37:32.107 [main] INFO  - --------------Clicking the living menu--------------
+17:37:34.514 [main] INFO  - --------------The list of sub-menu available under the living option--------------
+17:37:34.520 [main] INFO  - --------------Option-1--------------
+17:37:36.778 [main] INFO  - --------------Option-2--------------
+17:37:36.909 [main] INFO  - --------------Option-3--------------
+17:37:51.990 [main] INFO  - --------------The home page of the website--------------
+17:37:52.063 [main] INFO  - --------------Clicking the gift card option--------------
+17:38:37.626 [main] INFO  - --------------The home page of the website--------------
+17:38:37.697 [main] INFO  - --------------Clicking the gift card option--------------
+17:39:23.286 [main] INFO  - --------------The home page of the website--------------
+17:39:23.339 [main] INFO  - --------------Clicking the gift card option--------------
+17:40:09.350 [main] INFO  - --------------Home page--------------
+17:40:09.367 [main] INFO  - --------------Clicking the gift card option--------------
+17:41:57.584 [main] INFO  - --------------Home page--------------
+17:41:57.636 [main] INFO  - --------------Clicking the gift card option--------------
+17:43:43.839 [main] INFO  - --------------Home page--------------
+17:43:43.851 [main] INFO  - --------------Clicking the gift card option--------------
+17:44:29.664 [main] INFO  - --------------Home page--------------
+17:44:29.691 [main] INFO  - --------------Clicking the gift card option--------------
+17:50:01.291 [main] INFO  - --------------The home page of the website--------------
+17:50:01.421 [main] INFO  - --------------Goto to search box-->Search for Bookshelves..-------------- 
+17:50:04.338 [main] INFO  - --------------Navigating to the result page--------------
+17:50:07.769 [main] INFO  - --------------Choosing category as Bookshelves--------------
+17:50:13.688 [main] INFO  - --------------Choosing the price range as 608-9222--------------
+17:50:24.678 [main] INFO  - --------------Excluding out of stock--------------
+17:50:25.874 [main] INFO  - --------------Sorting the product as High to low--------------
+17:50:32.721 [main] INFO  - --------------The top three bookshelve's name and price--------------
+17:50:45.607 [main] INFO  - --------------Title of the page--------------
+17:50:45.625 [main] INFO  - --------------Clicking the living menu--------------
+17:50:48.646 [main] INFO  - --------------The list of sub-menu available under the living option--------------
+17:50:48.651 [main] INFO  - --------------Option-1--------------
+17:50:50.849 [main] INFO  - --------------Option-2--------------
+17:50:50.897 [main] INFO  - --------------Option-3--------------
+17:51:02.463 [main] INFO  - --------------The home page of the website--------------
+17:51:02.983 [main] INFO  - --------------Clicking the gift card option--------------
+17:51:07.369 [main] INFO  - --------------Choosing Birthday/Anniversary as occasion--------------
+17:51:07.602 [main] INFO  - --------------Entering the amount in the amount text--------------
+17:51:07.954 [main] INFO  - -------------Checking the button is enabled or not--------------
+17:51:18.688 [main] INFO  - --------------The home page of the website--------------
+17:51:18.726 [main] INFO  - --------------Clicking the gift card option--------------
+17:51:24.047 [main] INFO  - --------------Choosing Birthday/Anniversary as occasion--------------
+17:51:24.243 [main] INFO  - --------------Entering the amount in the amount text--------------
+17:51:24.562 [main] INFO  - -------------Checking the button is enabled or not--------------
+17:51:39.920 [main] INFO  - --------------The home page of the website--------------
+17:51:40.025 [main] INFO  - --------------Clicking the gift card option--------------
+17:51:45.581 [main] INFO  - --------------Choosing Birthday/Anniversary as occasion--------------
+17:51:45.805 [main] INFO  - --------------Entering the amount in the amount text--------------
+17:51:46.330 [main] INFO  - -------------Checking the button is enabled or not--------------
+17:51:58.408 [main] INFO  - --------------Home page--------------
+17:51:58.415 [main] INFO  - --------------Clicking the gift card option--------------
+17:52:03.829 [main] INFO  - --------------Navigated to the gift card page--------------
+17:52:03.836 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+17:52:04.059 [main] INFO  - --------------Entering the amount as 1000--------------
+17:52:04.577 [main] INFO  - --------------The heading of the form--------------
+17:52:04.579 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+17:52:13.760 [main] INFO  - --------------The Message after submitting the form--------------
+17:52:27.289 [main] INFO  - --------------Home page--------------
+17:52:27.294 [main] INFO  - --------------Clicking the gift card option--------------
+17:52:33.782 [main] INFO  - --------------Navigated to the gift card page--------------
+17:52:33.788 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+17:52:34.036 [main] INFO  - --------------Entering the amount as 1000--------------
+17:52:34.742 [main] INFO  - --------------The heading of the form--------------
+17:52:34.746 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+17:52:42.745 [main] INFO  - --------------The Message after submitting the form--------------
+17:52:55.812 [main] INFO  - --------------Home page--------------
+17:52:55.817 [main] INFO  - --------------Clicking the gift card option--------------
+17:53:01.586 [main] INFO  - --------------Navigated to the gift card page--------------
+17:53:01.590 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+17:53:01.817 [main] INFO  - --------------Entering the amount as 1000--------------
+17:53:02.340 [main] INFO  - --------------The heading of the form--------------
+17:53:02.345 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+17:53:09.740 [main] INFO  - --------------The Message after submitting the form--------------
+17:53:23.020 [main] INFO  - --------------Home page--------------
+17:53:23.024 [main] INFO  - --------------Clicking the gift card option--------------
+17:53:29.116 [main] INFO  - --------------Navigated to the gift card page--------------
+17:53:29.119 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+17:53:29.318 [main] INFO  - --------------Entering the amount as 1000--------------
+17:53:29.820 [main] INFO  - --------------The heading of the form--------------
+17:53:29.822 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+17:53:37.058 [main] INFO  - --------------The Message after submitting the form--------------
+12:58:46.459 [main] INFO  - --------------The home page of the website--------------
+12:58:46.621 [main] INFO  - --------------Goto to search box-->Search for Bookshelves..-------------- 
+12:58:49.132 [main] INFO  - --------------Navigating to the result page--------------
+12:58:52.457 [main] INFO  - --------------Choosing category as Bookshelves--------------
+12:58:58.261 [main] INFO  - --------------Choosing the price range as 608-9222--------------
+12:59:09.286 [main] INFO  - --------------Excluding out of stock--------------
+12:59:10.570 [main] INFO  - --------------Sorting the product as High to low--------------
+12:59:17.386 [main] INFO  - --------------The top three bookshelve's name and price--------------
+12:59:40.066 [main] INFO  - --------------Title of the page--------------
+12:59:40.200 [main] INFO  - --------------Clicking the living menu--------------
+12:59:42.568 [main] INFO  - --------------The list of sub-menu available under the living option--------------
+12:59:42.576 [main] INFO  - --------------Option-1--------------
+12:59:44.774 [main] INFO  - --------------Option-2--------------
+12:59:44.911 [main] INFO  - --------------Option-3--------------
+12:59:56.142 [main] INFO  - --------------The home page of the website--------------
+12:59:56.176 [main] INFO  - --------------Clicking the gift card option--------------
+13:00:01.148 [main] INFO  - --------------Choosing Birthday/Anniversary as occasion--------------
+13:00:01.430 [main] INFO  - --------------Entering the amount in the amount text--------------
+13:00:01.941 [main] INFO  - -------------Checking the button is enabled or not--------------
+13:00:16.078 [main] INFO  - --------------The home page of the website--------------
+13:00:16.608 [main] INFO  - --------------Clicking the gift card option--------------
+13:00:20.807 [main] INFO  - --------------Choosing Birthday/Anniversary as occasion--------------
+13:00:20.991 [main] INFO  - --------------Entering the amount in the amount text--------------
+13:00:21.383 [main] INFO  - -------------Checking the button is enabled or not--------------
+13:00:34.996 [main] INFO  - --------------The home page of the website--------------
+13:00:35.174 [main] INFO  - --------------Clicking the gift card option--------------
+13:00:40.609 [main] INFO  - --------------Choosing Birthday/Anniversary as occasion--------------
+13:00:40.826 [main] INFO  - --------------Entering the amount in the amount text--------------
+13:00:41.487 [main] INFO  - -------------Checking the button is enabled or not--------------
+13:00:53.377 [main] INFO  - --------------Home page--------------
+13:00:53.384 [main] INFO  - --------------Clicking the gift card option--------------
+13:00:58.458 [main] INFO  - --------------Navigated to the gift card page--------------
+13:00:58.464 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+13:00:58.726 [main] INFO  - --------------Entering the amount as 1000--------------
+13:00:59.313 [main] INFO  - --------------The heading of the form--------------
+13:00:59.317 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+13:01:08.766 [main] INFO  - --------------The Message after submitting the form--------------
+13:01:22.190 [main] INFO  - --------------Home page--------------
+13:01:22.197 [main] INFO  - --------------Clicking the gift card option--------------
+13:01:27.425 [main] INFO  - --------------Navigated to the gift card page--------------
+13:01:27.430 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+13:01:27.644 [main] INFO  - --------------Entering the amount as 1000--------------
+13:01:28.342 [main] INFO  - --------------The heading of the form--------------
+13:01:28.346 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+13:01:36.022 [main] INFO  - --------------The Message after submitting the form--------------
+13:01:49.758 [main] INFO  - --------------Home page--------------
+13:01:49.762 [main] INFO  - --------------Clicking the gift card option--------------
+13:01:54.925 [main] INFO  - --------------Navigated to the gift card page--------------
+13:01:54.930 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+13:01:55.165 [main] INFO  - --------------Entering the amount as 1000--------------
+13:01:55.913 [main] INFO  - --------------The heading of the form--------------
+13:01:55.916 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+13:02:03.522 [main] INFO  - --------------The Message after submitting the form--------------
+13:02:16.089 [main] INFO  - --------------Home page--------------
+13:02:16.094 [main] INFO  - --------------Clicking the gift card option--------------
+13:02:20.294 [main] INFO  - --------------Navigated to the gift card page--------------
+13:02:20.301 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+13:02:20.530 [main] INFO  - --------------Entering the amount as 1000--------------
+13:02:21.226 [main] INFO  - --------------The heading of the form--------------
+13:02:21.229 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+13:02:28.613 [main] INFO  - --------------The Message after submitting the form--------------
+09:43:25.877 [main] INFO  - ************Starts searching with empty string************
+09:43:56.285 [main] INFO  - ************No result found for empty string************
+09:43:56.821 [main] INFO  - ************Starts searching************
+09:44:01.915 [main] INFO  - ************Choosing category as Bookshelves************
+09:44:07.501 [main] INFO  - ************Choosing price range below 15000************
+09:44:18.211 [main] INFO  - ************Excluding out of stock************
+09:44:19.336 [main] INFO  - ************sorting as high to low************
+09:44:25.828 [main] INFO  - ************TOP 3 Bookshelves************
+09:44:26.243 [main] INFO  - ************Sub menu 1************
+09:44:28.511 [main] INFO  - ************Sub menu 2************
+09:44:28.607 [main] INFO  - ************Sub menu 3************
+09:45:00.095 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:45:00.304 [main] INFO  - ************Entering amount as 1000***********
+09:45:12.404 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:45:12.538 [main] INFO  - ************Entering amount as 1000***********
+09:45:40.317 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:45:40.445 [main] INFO  - ************Entering amount as 1000***********
+09:46:13.479 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:47:22.761 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:47:22.964 [main] INFO  - ************Entering amount as 1000***********
+09:47:23.501 [main] INFO  - ************Filling the details in the form***********
+09:47:30.551 [main] INFO  - ************Submitting the form************
+09:47:30.877 [main] INFO  - ************Printing the Confirmation Message************
+09:49:36.365 [main] INFO  - ************Starts searching with empty string************
+09:50:06.780 [main] INFO  - ************No result found for empty string************
+09:50:07.263 [main] INFO  - ************Starts searching************
+09:50:13.009 [main] INFO  - ************Choosing category as Bookshelves************
+09:50:18.644 [main] INFO  - ************Choosing price range below 15000************
+09:50:29.428 [main] INFO  - ************Excluding out of stock************
+09:50:30.632 [main] INFO  - ************sorting as high to low************
+09:50:37.497 [main] INFO  - ************TOP 3 Bookshelves************
+09:50:38.002 [main] INFO  - ************Sub menu 1************
+09:50:40.259 [main] INFO  - ************Sub menu 2************
+09:50:40.308 [main] INFO  - ************Sub menu 3************
+09:51:11.829 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:51:12.084 [main] INFO  - ************Entering amount as 1000***********
+09:51:25.577 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:51:25.739 [main] INFO  - ************Entering amount as 1000***********
+09:51:52.271 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:51:52.664 [main] INFO  - ************Entering amount as 1000***********
+09:52:06.358 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:52:06.539 [main] INFO  - ************Entering amount as 1000***********
+09:52:06.978 [main] INFO  - ************Filling the details in the form***********
+09:52:13.656 [main] INFO  - ************Submitting the form************
+09:52:14.197 [main] INFO  - ************Printing the Confirmation Message************
+09:52:37.589 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:52:37.738 [main] INFO  - ************Entering amount as 1000***********
+09:52:38.052 [main] INFO  - ************Filling the details in the form***********
+09:52:44.491 [main] INFO  - ************Submitting the form************
+09:52:44.735 [main] INFO  - ************Printing the Confirmation Message************
+09:52:53.514 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:52:53.718 [main] INFO  - ************Entering amount as 1000***********
+09:52:54.099 [main] INFO  - ************Filling the details in the form***********
+09:53:00.567 [main] INFO  - ************Submitting the form************
+09:53:00.652 [main] INFO  - ************Printing the Confirmation Message************
+09:55:41.978 [main] INFO  - ************Starts searching with empty string************
+09:56:12.373 [main] INFO  - ************No result found for empty string************
+09:56:12.776 [main] INFO  - ************Starts searching************
+09:56:17.632 [main] INFO  - ************Choosing category as Bookshelves************
+09:56:23.216 [main] INFO  - ************Choosing price range below 15000************
+09:56:34.054 [main] INFO  - ************Excluding out of stock************
+09:56:35.168 [main] INFO  - ************sorting as high to low************
+09:56:41.670 [main] INFO  - ************TOP 3 Bookshelves************
+09:56:42.189 [main] INFO  - ************Sub menu 1************
+09:56:44.406 [main] INFO  - ************Sub menu 2************
+09:56:44.464 [main] INFO  - ************Sub menu 3************
+09:57:15.734 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:57:15.922 [main] INFO  - ************Entering amount as 1000***********
+09:57:35.520 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:57:36.134 [main] INFO  - ************Entering amount as 1000***********
+09:57:57.328 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:57:57.477 [main] INFO  - ************Entering amount as 1000***********
+09:58:16.993 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:58:17.128 [main] INFO  - ************Entering amount as 1000***********
+09:58:17.496 [main] INFO  - ************Filling the details in the form***********
+09:58:24.046 [main] INFO  - ************Submitting the form************
+09:58:24.555 [main] INFO  - ************Printing the Confirmation Message************
+09:58:28.887 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:58:29.013 [main] INFO  - ************Entering amount as 1000***********
+09:58:29.393 [main] INFO  - ************Filling the details in the form***********
+09:58:35.852 [main] INFO  - ************Submitting the form************
+09:58:36.073 [main] INFO  - ************Printing the Confirmation Message************
+09:58:39.522 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:58:39.641 [main] INFO  - ************Entering amount as 1000***********
+09:58:39.993 [main] INFO  - ************Filling the details in the form***********
+09:58:46.464 [main] INFO  - ************Submitting the form************
+09:58:46.540 [main] INFO  - ************Printing the Confirmation Message************
+09:59:04.647 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+09:59:04.828 [main] INFO  - ************Entering amount as 1000***********
+09:59:05.243 [main] INFO  - ************Filling the details in the form***********
+09:59:11.666 [main] INFO  - ************Submitting the form************
+09:59:11.916 [main] INFO  - ************Printing the Confirmation Message************
+10:02:28.648 [main] INFO  - ************Starts searching with empty string************
+10:02:59.124 [main] INFO  - ************No result found for empty string************
+10:02:59.585 [main] INFO  - ************Starts searching************
+10:03:05.108 [main] INFO  - ************Choosing category as Bookshelves************
+10:03:10.778 [main] INFO  - ************Choosing price range below 15000************
+10:03:21.537 [main] INFO  - ************Excluding out of stock************
+10:03:22.680 [main] INFO  - ************sorting as high to low************
+10:03:29.383 [main] INFO  - ************TOP 3 Bookshelves************
+10:03:29.934 [main] INFO  - ************Sub menu 1************
+10:03:32.246 [main] INFO  - ************Sub menu 2************
+10:03:32.298 [main] INFO  - ************Sub menu 3************
+10:04:03.817 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:04:04.081 [main] INFO  - ************Entering amount as 1000***********
+10:04:12.505 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:04:12.661 [main] INFO  - ************Entering amount as 1000***********
+10:05:25.469 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:05:25.681 [main] INFO  - ************Entering amount as 1000***********
+10:05:26.150 [main] INFO  - ************Filling the details in the form***********
+10:05:32.842 [main] INFO  - ************Submitting the form************
+10:05:33.406 [main] INFO  - ************Printing the Confirmation Message************
+10:05:56.026 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:05:56.308 [main] INFO  - ************Entering amount as 1000***********
+10:05:56.802 [main] INFO  - ************Filling the details in the form***********
+10:06:03.716 [main] INFO  - ************Submitting the form************
+10:06:03.825 [main] INFO  - ************Printing the Confirmation Message************
+10:07:58.146 [main] INFO  - ************Starts searching with empty string************
+10:08:29.690 [main] INFO  - ************No result found for empty string************
+10:08:30.468 [main] INFO  - ************Starts searching************
+10:10:30.967 [main] INFO  - ************Starts searching with empty string************
+10:11:01.724 [main] INFO  - ************No result found for empty string************
+10:11:02.494 [main] INFO  - ************Starts searching************
+10:11:08.584 [main] INFO  - ************Choosing category as Bookshelves************
+10:11:39.685 [main] INFO  - ************Sub menu 1************
+10:11:41.964 [main] INFO  - ************Sub menu 2************
+10:11:42.051 [main] INFO  - ************Sub menu 3************
+10:11:48.096 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:11:48.271 [main] INFO  - ************Entering amount as 1000***********
+10:11:50.727 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:11:50.880 [main] INFO  - ************Entering amount as 1000***********
+10:11:53.029 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:11:53.174 [main] INFO  - ************Entering amount as 1000***********
+10:11:59.317 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:11:59.534 [main] INFO  - ************Entering amount as 1000***********
+10:12:00.129 [main] INFO  - ************Filling the details in the form***********
+10:12:07.340 [main] INFO  - ************Submitting the form************
+10:12:07.643 [main] INFO  - ************Printing the Confirmation Message************
+10:12:10.097 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:12:10.257 [main] INFO  - ************Entering amount as 1000***********
+10:12:10.762 [main] INFO  - ************Filling the details in the form***********
+10:12:17.831 [main] INFO  - ************Submitting the form************
+10:12:18.117 [main] INFO  - ************Printing the Confirmation Message************
+10:12:20.915 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:12:21.067 [main] INFO  - ************Entering amount as 1000***********
+10:12:21.573 [main] INFO  - ************Filling the details in the form***********
+10:12:28.609 [main] INFO  - ************Submitting the form************
+10:12:28.710 [main] INFO  - ************Printing the Confirmation Message************
+10:12:31.068 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:12:31.197 [main] INFO  - ************Entering amount as 1000***********
+10:12:31.746 [main] INFO  - ************Filling the details in the form***********
+10:12:38.549 [main] INFO  - ************Submitting the form************
+10:12:38.863 [main] INFO  - ************Printing the Confirmation Message************
+10:13:29.465 [main] INFO  - ************Starts searching with empty string************
+10:14:00.258 [main] INFO  - ************No result found for empty string************
+10:14:00.835 [main] INFO  - ************Starts searching************
+10:14:06.309 [main] INFO  - ************Choosing category as Bookshelves************
+10:14:12.109 [main] INFO  - ************Choosing price range below 15000************
+10:14:23.099 [main] INFO  - ************Excluding out of stock************
+10:14:24.421 [main] INFO  - ************sorting as high to low************
+10:14:31.049 [main] INFO  - ************TOP 3 Bookshelves************
+10:14:31.588 [main] INFO  - ************Sub menu 1************
+10:14:33.962 [main] INFO  - ************Sub menu 2************
+10:14:34.040 [main] INFO  - ************Sub menu 3************
+10:14:41.308 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:14:41.585 [main] INFO  - ************Entering amount as 1000***********
+10:14:44.101 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:14:44.285 [main] INFO  - ************Entering amount as 1000***********
+10:14:47.410 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:14:47.605 [main] INFO  - ************Entering amount as 1000***********
+10:14:52.863 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:14:53.030 [main] INFO  - ************Entering amount as 1000***********
+10:14:53.615 [main] INFO  - ************Filling the details in the form***********
+10:15:00.597 [main] INFO  - ************Submitting the form************
+10:15:00.937 [main] INFO  - ************Printing the Confirmation Message************
+10:15:03.893 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:15:04.100 [main] INFO  - ************Entering amount as 1000***********
+10:15:04.771 [main] INFO  - ************Filling the details in the form***********
+10:15:11.795 [main] INFO  - ************Submitting the form************
+10:15:12.055 [main] INFO  - ************Printing the Confirmation Message************
+10:15:14.570 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:15:14.795 [main] INFO  - ************Entering amount as 1000***********
+10:15:15.367 [main] INFO  - ************Filling the details in the form***********
+10:15:22.353 [main] INFO  - ************Submitting the form************
+10:15:22.438 [main] INFO  - ************Printing the Confirmation Message************
+10:15:25.510 [main] INFO  - ************Choosing occasion as Anniversary/Birthday************
+10:15:25.658 [main] INFO  - ************Entering amount as 1000***********
+10:15:26.084 [main] INFO  - ************Filling the details in the form***********
+10:15:33.100 [main] INFO  - ************Submitting the form************
+10:15:33.923 [main] INFO  - ************Printing the Confirmation Message************
+10:19:25.693 [main] INFO  - --------------The home page of the website--------------
+10:19:25.771 [main] INFO  - --------------Goto to search box-->Search for Bookshelves..-------------- 
+10:19:28.074 [main] INFO  - --------------Navigating to the result page--------------
+10:19:31.438 [main] INFO  - --------------Choosing category as Bookshelves--------------
+10:19:37.109 [main] INFO  - --------------Choosing the price range as 608-9222--------------
+10:19:48.101 [main] INFO  - --------------Excluding out of stock--------------
+10:19:49.402 [main] INFO  - --------------Sorting the product as High to low--------------
+10:19:56.208 [main] INFO  - --------------The top three bookshelve's name and price--------------
+10:20:13.102 [main] INFO  - --------------Title of the page--------------
+10:20:13.175 [main] INFO  - --------------Clicking the living menu--------------
+10:20:15.424 [main] INFO  - --------------The list of sub-menu available under the living option--------------
+10:20:15.428 [main] INFO  - --------------Option-1--------------
+10:20:17.598 [main] INFO  - --------------Option-2--------------
+10:20:17.651 [main] INFO  - --------------Option-3--------------
+10:20:29.595 [main] INFO  - --------------The home page of the website--------------
+10:20:29.641 [main] INFO  - --------------Clicking the gift card option--------------
+10:20:34.801 [main] INFO  - --------------Choosing Birthday/Anniversary as occasion--------------
+10:20:35.025 [main] INFO  - --------------Entering the amount in the amount text--------------
+10:20:35.371 [main] INFO  - -------------Checking the button is enabled or not--------------
+10:20:46.340 [main] INFO  - --------------The home page of the website--------------
+10:20:46.476 [main] INFO  - --------------Clicking the gift card option--------------
+10:20:50.864 [main] INFO  - --------------Choosing Birthday/Anniversary as occasion--------------
+10:20:51.063 [main] INFO  - --------------Entering the amount in the amount text--------------
+10:20:51.476 [main] INFO  - -------------Checking the button is enabled or not--------------
+10:21:02.446 [main] INFO  - --------------The home page of the website--------------
+10:21:02.510 [main] INFO  - --------------Clicking the gift card option--------------
+10:21:08.033 [main] INFO  - --------------Choosing Birthday/Anniversary as occasion--------------
+10:21:08.420 [main] INFO  - --------------Entering the amount in the amount text--------------
+10:21:08.972 [main] INFO  - -------------Checking the button is enabled or not--------------
+10:21:21.843 [main] INFO  - --------------Home page--------------
+10:21:21.852 [main] INFO  - --------------Clicking the gift card option--------------
+10:21:27.730 [main] INFO  - --------------Navigated to the gift card page--------------
+10:21:27.734 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+10:21:27.960 [main] INFO  - --------------Entering the amount as 1000--------------
+10:21:28.555 [main] INFO  - --------------The heading of the form--------------
+10:21:28.559 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+10:21:38.901 [main] INFO  - --------------The Message after submitting the form--------------
+10:21:52.943 [main] INFO  - --------------Home page--------------
+10:21:52.948 [main] INFO  - --------------Clicking the gift card option--------------
+10:22:00.353 [main] INFO  - --------------Navigated to the gift card page--------------
+10:22:00.359 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+10:22:00.724 [main] INFO  - --------------Entering the amount as 1000--------------
+10:22:01.752 [main] INFO  - --------------The heading of the form--------------
+10:22:01.757 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+10:22:10.216 [main] INFO  - --------------The Message after submitting the form--------------
+10:22:23.242 [main] INFO  - --------------Home page--------------
+10:22:23.247 [main] INFO  - --------------Clicking the gift card option--------------
+10:22:29.535 [main] INFO  - --------------Navigated to the gift card page--------------
+10:22:29.541 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+10:22:29.833 [main] INFO  - --------------Entering the amount as 1000--------------
+10:22:30.414 [main] INFO  - --------------The heading of the form--------------
+10:22:30.417 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+10:22:37.984 [main] INFO  - --------------The Message after submitting the form--------------
+10:22:51.144 [main] INFO  - --------------Home page--------------
+10:22:51.154 [main] INFO  - --------------Clicking the gift card option--------------
+10:22:58.144 [main] INFO  - --------------Navigated to the gift card page--------------
+10:22:58.149 [main] INFO  - --------------Choosing Birthday/Anniversary as Occasion--------------
+10:22:58.445 [main] INFO  - --------------Entering the amount as 1000--------------
+10:22:59.156 [main] INFO  - --------------The heading of the form--------------
+10:22:59.158 [main] INFO  - --------------Filling the form from the test data available in the excel sheet--------------
+10:23:07.169 [main] INFO  - --------------The Message after submitting the form--------------

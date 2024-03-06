@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.Utility.ExtentReport"></listener>
+	</listeners>
+	 <parameter name="Amount1" value="100"></parameter>
+	 <parameter name="Amount2" value="5000000"></parameter>
+	 <parameter name="Amount3" value="1000"></parameter>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.TestCases.TS001_GettingTopThree_BookShelves"/>
+      <class name="com.TestCases.TS002_GettingAllSubOptions"/>
+       <class name="com.TestCases.TS003_FormFilling"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
